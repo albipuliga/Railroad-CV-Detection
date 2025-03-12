@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Clips', 'Sleepers']
+
+roboflow:
+  workspace: paul-jzo2d
+  project: stats-image
+  version: 6
+  license: Public Domain
+  url: https://universe.roboflow.com/paul-jzo2d/stats-image/dataset/6

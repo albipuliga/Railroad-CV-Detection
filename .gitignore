@@ -1,0 +1,5 @@
+*.pdf
+*.pt
+.DS_Store
+
+runs/
